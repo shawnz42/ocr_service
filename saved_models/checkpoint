@@ -1,0 +1,2 @@
+model_checkpoint_path: "/usr/local/src/cnn-ctc-ocr/Chinese-OCR/scripts/models/saved_models/crack_capcha.model-100"
+all_model_checkpoint_paths: "/usr/local/src/cnn-ctc-ocr/Chinese-OCR/scripts/models/saved_models/crack_capcha.model-100"
